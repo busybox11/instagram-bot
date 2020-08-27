@@ -1,5 +1,5 @@
 # Instagram Bot
-### A fully working instagram bot using Insta.js by androz2091
+### A fully working instagram bot using [Insta.js](https://github.com/Androz2091/insta.js) by [androz2091](https://github.com/Androz2091)
 
 Here is how you can install and use it
 
@@ -62,3 +62,7 @@ it means that the bot is ready to be used. 🎉
 Feel free to make a pull request if you have any edit to do in the code or just open an issue if you don't know how to fix it.
 
 Just open an issue if you have any features suggestions. 
+
+# Credits
+
+😘 - Thanks to [Androz2091](https://github.com/Androz2091) for the [Insta.js](https://github.com/Androz2091/insta.js) package.

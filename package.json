@@ -10,7 +10,7 @@
   "author": "Mr¤KayJayDee <killian.dalcin@gmail.com> (https://github.com/Mr-KayJayDee)",
   "license": "MIT",
   "dependencies": {
-    "@androz2091/insta.js": "github:androz2091/insta.js",
+    "@androz2091/insta.js": "github:androz2091/insta.js#develop",
     "@discordjs/collection": "^0.1.6",
     "chalk": "^4.1.0",
     "dotenv": "^8.2.0"

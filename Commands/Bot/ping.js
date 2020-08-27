@@ -4,7 +4,7 @@ module.exports = class extends Command {
     constructor(client) {
         super(client, {
             name: "ping",
-            description: "Return the bot ping (just a test command for now until the real ping is added)",
+            description: "Return the bot ping.",
             category: "Bot",
             enabled: true,
             aliases: ["latency"],
@@ -14,7 +14,9 @@ module.exports = class extends Command {
     }
 
     async run(message, args) {
-        message.chat.sendMessage(`Hey, my name is ${this.client.user.fullName} and i am an instagram bot.`);
+        message.chat.sendMessage('Calcul du ping...').then(m => {
+            m.delete();
+            message.chat.sendMessage(`Mon ping est de ${(m.timestamp - message.timestamp) / 1000}ms`)
+        })
     }
 }
-

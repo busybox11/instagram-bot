@@ -50,7 +50,7 @@ it means that the bot is ready to be used. 🎉
 
 # Available commands 
 
-- !ping
+- !ping: Return the bot ping
 
 # Future updates 
 

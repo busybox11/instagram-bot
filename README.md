@@ -45,3 +45,20 @@ Verified: false
 Private: false
 ``` 
 it means that the bot is ready to be used. 🎉
+
+
+
+# Available commands 
+
+- !ping
+
+# Future updates 
+
+- Ability to change the prefix on a chat
+- Ability to change the lang
+- Ability to make reminders
+- Ability to get the informations about an user
+
+Feel free to make a pull request if you have any edit to do in the code or just open an issue if you don't know how to fix it.
+
+Just open an issue if you have any features suggestions. 

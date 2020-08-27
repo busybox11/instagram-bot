@@ -1,5 +1,5 @@
 # Instagram Bot
-### "A fully working instagram bot using Insta.js by androz2091
+### A fully working instagram bot using Insta.js by androz2091
 
 Here is how you can install and use it
 

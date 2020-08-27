@@ -1,0 +1,18 @@
+{
+  "name": "instabot",
+  "version": "1.0.0",
+  "description": "A fully working instagram bot using Insta.js by androz2091",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mr¤KayJayDee <killian.dalcin@gmail.com> (https://github.com/Mr-KayJayDee)",
+  "license": "MIT",
+  "dependencies": {
+    "@androz2091/insta.js": "github:androz2091/insta.js",
+    "@discordjs/collection": "^0.1.6",
+    "chalk": "^4.1.0",
+    "dotenv": "^8.2.0"
+  }
+}
